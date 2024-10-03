@@ -1,0 +1,7 @@
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\bin\Debug\Vehiculoss.exe.config
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\bin\Debug\Vehiculoss.exe
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\bin\Debug\Vehiculoss.pdb
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\obj\Debug\Vehiculoss.csproj.AssemblyReference.cache
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\obj\Debug\Vehiculoss.csproj.CoreCompileInputs.cache
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\obj\Debug\Vehiculoss.exe
+C:\Users\yader\source\repos\Vehiculoss\Vehiculoss\obj\Debug\Vehiculoss.pdb
